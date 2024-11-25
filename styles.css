@@ -1,14 +1,14 @@
-body{
+body {
     background-color: black;
 }
 
-.header{
+.header {
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
 
-.post{
+.post {
     /* border: 2px solid red; */
     width: 400px;
     margin: 0 auto;
@@ -16,7 +16,7 @@ body{
     background-color: white;
 }
 
-.logo{
+.logo {
     /* border: 2px solid saddlebrown; */
     align-content: start;
     display: inline-block;
@@ -24,19 +24,19 @@ body{
     margin-left: 8px;
 }
 
-.tamaño{
+.tamaño {
     height: 50px;
     width: 50px;
 }
 
-.post-header{
+.post-header {
     /* border: 2px solid blue; */
     border-left: 40px;
     display: inline-block;
     margin-top: 5px;
 }
 
-.puntos{
+.puntos {
     /* border: 2px solid mediumseagreen; */
     font-size: 40px;
     text-align: end;
@@ -45,42 +45,42 @@ body{
     margin-right: 13px;
 }
 
-.image{
+.image {
     /* border: 2px solid blueviolet; */
-    width: 400px;
+    width: 100%;
     margin-top: 5px;
 }
 
-.img{
+.img {
     width: 100%;
 }
 
-.icons{
+.icons {
     display: flex;
     justify-content: space-between;
     padding: 5px;
 }
 
-.icons3{
+.icons3 {
     /* border: 2px solid green; */
     align-content: start;
     display: inline-block;
 }
 
-.icono-guardar{
+.icono-guardar {
+    /* border: 2px solid orangered; */
     align-items: end;
     display: inline-block;
-    /* border: 2px solid orangered; */
 }
 
-.post-footer{
+.post-footer {
+    /* border: 2px solid blue; */
     text-align: center;
     margin-top: 5px;
     margin-left: 5px;
-    /* border: 2px solid blue; */
 }
 
-.parrafo-footer{
+.parrafo-footer {
     /* border: 2px solid magenta; */
     padding: 5px;
     margin-left: 2px;
